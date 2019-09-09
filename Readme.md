@@ -1,6 +1,4 @@
-# COSC2196 Introduction to Information Technology
-
-## About Me
+# About Me
 
 My name is Jessica Cramb, I am originally from Sydney and moved up to Brisbane around 13 years ago.  I am of Australian Aboriginal decent, with my mother being from the Monaro Ngarigo tribe and my father being from the Biripi tribe.  Whilst we do still speak a few words in our language, it is unfortunately not enough to pull together full sentences.
 
@@ -16,13 +14,13 @@ Email:			S3813728@student.rmit.edu.au
 
 
 
-## Interest in IT 10%
+# Interest in IT 10%
 
 
-## Ideal job 25%
+# Ideal job 25%
 
 
-## Profile 20%
+# Profile 20%
 
 
-## Project ideas 30%
+# Project ideas 30%
