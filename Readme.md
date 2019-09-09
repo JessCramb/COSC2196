@@ -16,6 +16,10 @@ Email:			S3813728@student.rmit.edu.au
 
 # Interest in IT 10%
 
+Like most people I have enjoyed using computers from a young age, back when a fun pastime was to make abstract circle art in Paint. For me however,  the fascination in information technology and how it worked started in highschool.  I'm fairly certain the exact moment was during a computer science class in which we were shown how to build a basic database using Microsoft Access, from here I was hooked although I didn't realise it at the time.
+
+In fact throughout my professional life I have been exposed to a number of industry or organisation specific technologies. No matter what the file is I kept finding myself wanting to know how have encountered various industry specific, and in some cases organisation specific, customer relationship management (CRM) programs 
+
 
 # Ideal job 25%
 
