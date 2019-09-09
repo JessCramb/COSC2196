@@ -1,4 +1,6 @@
-# About Me
+# COSC2196 Introduction to Information Technology
+
+## About Me
 
 My name is Jessica Cramb, I am originally from Sydney and moved up to Brisbane around 13 years ago.  I am of Australian Aboriginal decent, with my mother being from the Monaro Ngarigo tribe and my father being from the Biripi tribe.  Whilst we do still speak a few words in our language, it is unfortunately not enough to pull together full sentences.
 
@@ -8,9 +10,19 @@ When I’m not working, studying or chasing after a one year old I like to spend
 
 I am very excited to be continuing my education journey with RMIT and all my fellow students and cannot wait to be able to apply all my new skills to the real world.
 
-
-**Jessica Cramb**
-
-Student Number:	S3813728
-
+**Jessica Cramb**  
+Student Number:	S3813728  
 Email:			S3813728@student.rmit.edu.au
+
+
+
+## Interest in IT 10%
+
+
+## Ideal job 25%
+
+
+## Profile 20%
+
+
+## Project ideas 30%
