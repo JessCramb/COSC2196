@@ -1,0 +1,10 @@
+Header Banner: 75pt H
+
+Header font: Sans-serif, 30.0pt, White f6f6f6
+
+Provier details: sans-serif, 15pt, black 000000
+
+field backgroud; f6f6f6, opacity 50%
+
+
+$60 per km2
